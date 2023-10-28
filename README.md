@@ -1,1 +1,1 @@
-# wad-a923-media-html-code-along
+# Media HTML Code-Along
